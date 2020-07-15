@@ -3,4 +3,5 @@ updated by developer -2
 updating one.txt remotelly
 updating one.txt
 git is distributed
+Git is fast
 
